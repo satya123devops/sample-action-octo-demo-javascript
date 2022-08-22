@@ -1,0 +1,24 @@
+{
+  "name": "sample-action-octo-demo-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satya123devops/sample-action-octo-demo-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satya123devops/sample-action-octo-demo-javascript/issues"
+  },
+  "homepage": "https://github.com/satya123devops/sample-action-octo-demo-javascript#readme",
+  "dependencies": {
+    "@actions/core": "^1.9.1",
+    "@actions/github": "^5.0.3"
+  }
+}
